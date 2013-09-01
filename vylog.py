@@ -1,3 +1,11 @@
+'''
+This code was writed by Vyscond and is distributed under the GNU General Public License
+
+github : https://github.com/vyscond
+email  : vyscond@gmail.com
+
+'''
+
 import time
 
 class VyLog :
