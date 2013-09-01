@@ -15,7 +15,8 @@ A simple class to help you with log information
 #### Examples usage
 
 > Remember to put the vylog.py file on the same folder of examples
-> or install as a library for more confort :
- ```bash
-cp vylog.py /usr/lib/python2.7/ 
-```
+> or install as a library for more confort. ```cp vylog.py /usr/lib/python2.7/```
+
+#### License
+
+This code is distributed under the GNU General Public License
