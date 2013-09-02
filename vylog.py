@@ -42,7 +42,7 @@ class VyLog :
 
         self.log_lines.append( msg )
 
-        print self.header + msg
+        print msg
 
     def generate_timestamp( self ):
 
