@@ -8,7 +8,7 @@ email  : vyscond@gmail.com
 
 import time
 
-class VyLog :
+class Whysper :
 
     APPEND = 'a'
 
