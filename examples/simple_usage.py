@@ -1,10 +1,10 @@
-from vylog import VyLog
+from whysper import Whysper
 
 class Foo :
 
     def __init__( self ):
         
-        self.log = VyLog( self )
+        self.log = Whysper( self )
 
         self.log.show('[Foo has been instantiated]')
 

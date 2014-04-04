@@ -1,7 +1,7 @@
-vylog
+Whysper
 =====
 
-A simple class to help you with log information
+A simple class to help you with debugging/log you program actions
 
 #### Whats is available for
 
@@ -11,11 +11,6 @@ A simple class to help you with log information
 #### Future Plans
 
 - I dont know! any tips?
-
-#### Examples usage
-
-> Remember to put the vylog.py file on the same folder of examples
-> or install as a library for more confort. ```cp vylog.py /usr/lib/python2.7/```
 
 #### License
 
