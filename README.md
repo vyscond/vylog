@@ -14,4 +14,4 @@ A simple class to help you with debugging/log you program actions
 
 #### License
 
-This code is distributed under the GNU General Public License
+This code is distributed under the MIT License
